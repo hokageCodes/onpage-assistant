@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import OnPageAssistant from './OnPageAssistant';
+import OnPageAssistant from './components/OnPageAssistant';
 import axios from 'axios'; // Import axios
 
 function App() {
